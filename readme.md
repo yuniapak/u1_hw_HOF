@@ -1,14 +1,22 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE
-
 # Higher Order Functions and Objects
 
-Fork and clone this repo.
+## Homework Overview
+In this deliverable, you will be practicing using High Order Functions and javascript Objects.
 
-Cd into the folder and run `npm install`.
-Run `npm test` to check your work.
+## Getting Started
+  - Fork and clone this repo.
+  - `cd` into the folder and run `npm install`.
+  - Run `npm test` to check your work.
 
+## Instructions
 Follow the directions outlined in each function.
 
-Submit a pull request once completed for submission.
+## Homework Requirements
+  - Complete each function as outlined.
 
-Happy coding!
+## Submission Guidelines
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-1-25/Pull-Request-Template)
+
+## Resources
+- [Lesson 1]()
+- [Lesson 2]()
