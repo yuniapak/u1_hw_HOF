@@ -9,14 +9,15 @@ In this deliverable, you will be practicing using High Order Functions and javas
   - Run `npm test` to check your work.
 
 ## Instructions
-Follow the directions outlined in each function.
+Follow the directions outlined in each function. Keep your code within the sections provided to ensure the tests run properly.  Do not remove/edit the "module.exports" section.
 
 ## Homework Requirements
-  - Complete each function as outlined.
+  - Complete all 10 functions as outlined.
+  - Your code must pass all 10 tests when you run `npm test`.
 
 ## Submission Guidelines
 - PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-1-25/Pull-Request-Template)
 
 ## Resources
-- [Lesson 1]()
-- [Lesson 2]()
+- [High Order Functions Lesson](https://github.com/SEI-R-1-25/u1_lesson_js_hof)
+- [High Order Functions Lab](https://github.com/SEI-R-1-25/u1_lab_js_hof)
