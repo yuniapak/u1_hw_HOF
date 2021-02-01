@@ -35,15 +35,6 @@ test('Returns an array where each value has $ on the front', () => {
   expect(d).toEqual(values)
 })
 
-test('Returns an array of objects containing the lowercased word and its corresponding emoji', () => {
-  let words = ['Happy', 'Sad', 'Winky']
-  const d = functions.createObject(words)
-  let expected = [{ happy: '=)' }, { sad: ':(' }, { winky: ';)' }]
-  //   console.log(`INPUT => ${words}`)
-  //   console.log(`YOUR OUTPUT => ${JSON.stringify(d)}`)
-  expect(d).toEqual(expected)
-})
-
 test('Returns an array where every happy item is true', () => {
   const items = [
     { name: 'Joe', happy: false },
