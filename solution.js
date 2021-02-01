@@ -37,18 +37,6 @@ function printMoney(decimals) {
    */
 }
 
-function createObject(words) {
-  /**
-   * @param words => ['Happy', 'Sad', 'Winky']
-   * Using .map, return an array of objects containing the lowercased word plus an emoji,
-   * the key should be the lowercased word and the value should be the emoji
-   * EX: {
-   * input: ['Happy'],
-   * output: [{ happy: =)' }]
-   * }
-   */
-}
-
 // Use .filter for the following functions
 
 function returnAllTrueValues(values) {
@@ -97,7 +85,6 @@ module.exports = {
   returnSums,
   returnTotal,
   printMoney,
-  createObject,
   returnAllTrueValues,
   sortObjectsByValue,
   sortLetters,
