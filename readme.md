@@ -27,5 +27,5 @@ Follow the directions outlined in each function. Keep your code within the secti
 
 ## Resources
 
-- [High Order Functions Lesson](https://github.com/SEI-R-4-26/u1_lesson_js_HOF)
-- [High Order Functions Lab](https://github.com/SEI-R-4-26/u1_lab_js_HOF)
+- [High Order Functions Lesson](https://github.com/SEI-R-4-26/u1_lesson_HOF)
+- [High Order Functions Lab](https://github.com/SEI-R-4-26/u1_lab_HOF)
