@@ -23,9 +23,9 @@ Follow the directions outlined in each function. Keep your code within the secti
 
 ## Submission Guidelines
 
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-1-25/Pull-Request-Template)
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-4-26/Pull-Request-Template)
 
 ## Resources
 
-- [High Order Functions Lesson](https://github.com/SEI-R-1-25/u1_lesson_js_hof)
-- [High Order Functions Lab](https://github.com/SEI-R-1-25/u1_lab_js_hof)
+- [High Order Functions Lesson](https://github.com/SEI-R-4-26/u1_lesson_js_HOF)
+- [High Order Functions Lab](https://github.com/SEI-R-4-26/u1_lab_js_HOF)
