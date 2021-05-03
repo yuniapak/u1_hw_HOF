@@ -33,16 +33,12 @@ function printMoney(decimals) {
    */
 }
 
-// Use .filter for the following functions
-
 function returnAllTrueValues(values) {
   /**
    * @param values => [{name: 'Joe', happy:false}]
    * Using .filter, return an array of objects where happy equals true
    */
 }
-
-// Use .sort for the following functions
 
 function sortObjectsByValue(objs) {
   /**
