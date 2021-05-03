@@ -74,16 +74,6 @@ test('Returns an array with the sorted items in ascending order', () => {
   expect(d).toEqual(rValues)
 })
 
-test('Returns letters in alphabetical order in descending order', () => {
-  const items = ['a', 'f', 'e', 'z']
-  let rValues = ['z', 'f', 'e', 'a']
-  const d = functions.sortLetters(items)
-
-  //   console.log(`INPUT => ${items}`)
-  //   console.log(`YOUR OUTPUT => ${JSON.stringify(d)}`)
-  expect(d).toEqual(rValues)
-})
-
 test('Returns an array with every n number + 2', () => {
   let nums = [1, 2, 3, 4]
   const d = functions.addTwo(nums)

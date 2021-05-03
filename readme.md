@@ -18,8 +18,8 @@ Follow the directions outlined in each function. Keep your code within the secti
 
 ## Homework Requirements
 
-- Complete all 9 functions as outlined.
-- Your code must pass all 9 tests when you run `npm test`.
+- Complete all 8 functions as outlined.
+- Your code must pass all 8 tests when you run `npm test`.
 
 ## Submission Guidelines
 
