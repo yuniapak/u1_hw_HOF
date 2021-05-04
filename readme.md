@@ -23,7 +23,7 @@ Follow the directions outlined in each function. Keep your code within the secti
 
 ## Submission Guidelines
 
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-4-26/Pull-Request-Template)
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-4-26/template_pull_request)
 
 ## Resources
 
