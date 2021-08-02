@@ -1,6 +1,6 @@
 # Higher Order Functions and Objects
 
-![What](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FxYHscQ1Np55i8%2Fgiphy.gif&f=1&nofb=1)
+![What](https://miro.medium.com/max/2000/1*KbE6qWmCQg5isyMRQzwfpg.png)
 
 ## Homework Overview
 
@@ -20,8 +20,10 @@ Follow the directions outlined in each function. Keep your code within the secti
 
 There are a total of `8` tests, the last function is a bonus.
 
-- Complete all 7 functions as outlined.
-- Your code must pass all 7 tests when you run `npm test`.
+- Complete all 7 non bonus functions by following the provided prompts.
+- Your code must pass `7` out of `8` tests when you run `npm test`.
+- Make sure to return your result in each function provided.
+- **You do not have to invoke your functions, the tests will do it for you!**
 
 ## Bonus
 
@@ -33,5 +35,7 @@ There are a total of `8` tests, the last function is a bonus.
 
 ## Resources
 
-- [High Order Functions Lesson](https://github.com/SEI-R-4-26/u1_lesson_HOF)
-- [High Order Functions Lab](https://github.com/SEI-R-4-26/u1_lab_HOF)
+- [`.filter`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+- [`.map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+- [`.forEach`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/foreach)
+- [`.reduce`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
