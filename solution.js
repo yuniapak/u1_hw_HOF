@@ -2,7 +2,7 @@
 
 function printNums(nums) {
   /**
-   *  Using .forEach, add each number in the nums array to a new array containing  all of the numbers in nums array
+   *  Using .forEach, add each number in the nums array to a new array.
    * @param nums => [1,2,3,4]
    */
 }
@@ -10,7 +10,7 @@ function printNums(nums) {
 function returnSums(nums) {
   /**
    * Using forEach, push the sum of n plus the index
-   * to a new array and return the array
+   * to a new array and return the new array
    * @param nums => [1,2,3,4,5]
    */
 }
