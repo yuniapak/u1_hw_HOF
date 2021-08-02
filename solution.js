@@ -1,3 +1,5 @@
+// You must RETURN your result in each function!
+
 function printNums(nums) {
   /**
    *  Using .forEach, add each number in the nums array to a new array containing  all of the numbers in nums array
@@ -15,7 +17,7 @@ function returnSums(nums) {
 
 function returnTotal(objs) {
   /**
-   * Using forEach return the total sum of all numbers in the array of objects.
+   * Using forEach return a number that is the total sum of all numbers in the array of objects.
    * The key for each object will be n
    * @param objs => [{n:1}]
    */
@@ -43,7 +45,8 @@ function returnAllTrueValues(values) {
 function addTwo(nums) {
   /**
    * @param nums => [1,2,3,4]
-   * Using .reduce, return the total sum of all numbers with  each number + 2.
+   * Using .reduce, return the total sum of all numbers.
+   * Each number should have 2 added to it.
    */
   //   3
   //   4 => 7

@@ -14,12 +14,18 @@ In this deliverable, you will be practicing using High Order Functions and javas
 
 ## Instructions
 
-Follow the directions outlined in each function. Keep your code within the sections provided to ensure the tests run properly. Do not remove/edit the "module.exports" section.
+Follow the directions outlined in each function. Keep your code within the sections provided to ensure the tests run properly. **Do not remove/edit the `module.exports` section.**
 
 ## Homework Requirements
 
-- Complete all 8 functions as outlined.
-- Your code must pass all 8 tests when you run `npm test`.
+There are a total of `8` tests, the last function is a bonus.
+
+- Complete all 7 functions as outlined.
+- Your code must pass all 7 tests when you run `npm test`.
+
+## Bonus
+
+- Complete `sortObjectsByValue`
 
 ## Submission Guidelines
 
