@@ -14,6 +14,8 @@ In this deliverable, you will be practicing using High Order Functions and javas
 
 ## Instructions
 
+Work in the `solutions.js` file.
+
 Follow the directions outlined in each function. Keep your code within the sections provided to ensure the tests run properly. **Do not remove/edit the `module.exports` section.**
 
 ## Homework Requirements
