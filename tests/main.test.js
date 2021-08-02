@@ -55,6 +55,22 @@ test('Returns an array where every happy item is true', () => {
   expect(d).toEqual(rValues)
 })
 
+test('Returns an array with every n number + 2', () => {
+  let nums = [1, 2, 3, 4]
+  const d = functions.addTwo(nums)
+  //   console.log(`INPUT => ${nums}`)
+  //   console.log(`YOUR OUTPUT => ${d}`)
+  expect(d).toBe(18)
+})
+
+test('Returns a new string with each string added to the end', () => {
+  const strings = ['h', 'e', 'l', 'l', 'o']
+  const d = functions.joinStrings(strings)
+  //   console.log(`INPUT => ${strings}`)
+  //   console.log(`YOUR OUTPUT => ${d}`)
+  expect(d).toEqual('hello')
+})
+
 test('Returns an array with the sorted items in ascending order', () => {
   const items = [
     { value: 23 },
@@ -72,20 +88,4 @@ test('Returns an array with the sorted items in ascending order', () => {
   ]
   const d = functions.sortObjectsByValue(items)
   expect(d).toEqual(rValues)
-})
-
-test('Returns an array with every n number + 2', () => {
-  let nums = [1, 2, 3, 4]
-  const d = functions.addTwo(nums)
-  //   console.log(`INPUT => ${nums}`)
-  //   console.log(`YOUR OUTPUT => ${d}`)
-  expect(d).toBe(18)
-})
-
-test('Returns a new string with each string added to the end', () => {
-  const strings = ['h', 'e', 'l', 'l', 'o']
-  const d = functions.joinStrings(strings)
-  //   console.log(`INPUT => ${strings}`)
-  //   console.log(`YOUR OUTPUT => ${d}`)
-  expect(d).toEqual('hello')
 })
