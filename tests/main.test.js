@@ -16,7 +16,7 @@ describe('returnSums', () => {
   })
 })
 describe('returnTotal', () => {
-  it('should return a new array with the total sum of all numbers in each object', () => {
+  it('should return the total sum of all numbers in each object', () => {
     let nums = [{ n: 1 }, { n: 2 }, { n: 7 }]
     let sum = 10
     const d = functions.returnTotal(nums)
