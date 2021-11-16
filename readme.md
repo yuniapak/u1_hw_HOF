@@ -4,7 +4,7 @@
 
 ## Homework Overview
 
-In this deliverable, you will be practicing using High Order Functions and javascript Objects.
+In this deliverable, you will be practicing using Higher Order Functions and JavaScript Objects.
 
 ## Getting Started
 
