@@ -33,7 +33,7 @@ There are a total of `8` tests, the last function is a bonus.
 
 ## Submission Guidelines
 
-- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-2-22/template_pull_request)
+- PR must be submitted utilizing these guidelines: [PR Guidelines](https://github.com/SEI-R-6-21/template_pull_request)
 
 ## Resources
 
