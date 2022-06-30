@@ -72,10 +72,9 @@ function returnAllTrueValues(values) {
 const nums = [1, 2, 3, 4]
 
 function addTwo(nums) {
-  const sum = nums.reduce((a, b) => {
-    return a + b
+  const sum = nums.reduce((accumulator, value) => {
+    return accumulator + value
   }, 2)
-  return sum
 }
 /**
  * @param nums => [1,2,3,4]
@@ -88,11 +87,9 @@ function addTwo(nums) {
 const strings = ['h', 'e', 'l', 'l', 'o']
 
 function joinStrings(strings) {
-  const oneString = strings.reduce((a, b) => {
-    let string = ' '
-    string = a + b
-    return string
-  }, 0)
+  const oneString = strings.reduce((accumulator, value) => {
+    return accumulator + value
+  }, '')
   /**
    * @param strings => ['g', 'f', 'z']
    * Using .reduce, return a new string containing each string from the strings array.
@@ -106,6 +103,10 @@ function sortObjectsByValue(objs) {
    * Using .sort, sort the array of objects by the value key in ascending order
    * .sort documentation https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
    */
+  const sortByValue = objs.sort((a, b) => {
+    return a.value - b.value
+  })
+  return sortByValue
 }
 
 module.exports = {
